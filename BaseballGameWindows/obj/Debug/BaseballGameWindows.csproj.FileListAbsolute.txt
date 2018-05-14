@@ -1,0 +1,11 @@
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\bin\Debug\BaseballGameWindows.exe.config
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\bin\Debug\BaseballGameWindows.exe
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\bin\Debug\BaseballGameWindows.pdb
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\obj\Debug\BaseballGameWindows.csprojResolveAssemblyReference.cache
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\obj\Debug\BaseballGameWindows.Properties.Resources.resources
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\obj\Debug\BaseballGameWindows.csproj.GenerateResource.cache
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\obj\Debug\BaseballGameWindows.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\obj\Debug\BaseballGameWindows.exe
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\obj\Debug\BaseballGameWindows.pdb
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\obj\Debug\BaseballGameWindows.Form1.resources
+C:\Users\Mirim\source\repos\BaseballGameWindows\BaseballGameWindows\obj\Debug\BaseballGameWindows.BaseGame.resources
